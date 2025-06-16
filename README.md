@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bel4gor (AKA Kat)
 - 👀 I’m interested in video games, computers, writing
-- 🌱 I’m currently learning python, ansi c, Java, bash
+- 🌱 I know python, c/c#, java, bash, powershell, javascript, php, css, html.
 - 💞️ I’m looking to collaborate on group projects!
 - 📫 How to reach me mochi.bel on discord for easiest and quickest responses.
 - 😄 Pronouns: any
